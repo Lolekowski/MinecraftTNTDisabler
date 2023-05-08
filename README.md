@@ -11,8 +11,7 @@ P.S: Thanks for any support!
 1. Download zip
 2. Open Minecraft
 3. Go to singleplayer
-4 Press one time you world. Now press "Edit" button
-![obraz](https://user-images.githubusercontent.com/129978934/236865023-b138f6f5-67a2-4f92-9073-315b74b3fb1d.png)
+4. Press one time you world. Now press "Edit" button
 5. Now press "Open World Folder"
 6. Go to Datapacks
 7. Export there .zip downloaded from this page.
