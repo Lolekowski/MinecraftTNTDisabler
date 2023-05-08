@@ -14,7 +14,7 @@ P.S: Thanks for any support!
 4. Press one time you world. Now press "Edit" button
 5. Now press "Open World Folder"
 6. Go to Datapacks
-7. Export there .zip downloaded from this page. (To download click "<Code>" button on top of site, then click "Download ZIP")
+7. Export there .zip downloaded from this page. (To download click "Code" button on top of site, then click "Download ZIP")
 8. After this back to minecraft and open your save.
 9. Enter '/reload' command to reload datapacks.
 10. Have Fun!
