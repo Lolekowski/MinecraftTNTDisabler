@@ -21,7 +21,7 @@ P.S: Thanks for any support!
 
 # How to install (server)
 1. Open your server folder (Files on Aternos/Exaroton)
-2. Same procedure as steps 6-10 for singleplayer.
+2. Same procedure as steps 6-9 for singleplayer.
 3. Have Fun!
 # Note:
 This is my first datapack. So... Bugs and problems may be possible. Please be patient. If you have ideas/found a bug, feel free to write to me on discord about it: Lolekowski#7083
